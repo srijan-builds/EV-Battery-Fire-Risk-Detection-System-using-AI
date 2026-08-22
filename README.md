@@ -1,4 +1,4 @@
-🚗🔋 **EV Battery Fire-Risk Detection System with AI Risk Prediction**
+**EV Battery Fire-Risk Detection System with AI Risk Prediction**
 
 Developed as a smart battery safety and monitoring system for Electric Vehicles (EVs). Our system combines **Embedded Systems, IoT, LoRa communication, sensor monitoring, and AI-based risk prediction** to identify abnormal battery conditions at an early stage.
 
